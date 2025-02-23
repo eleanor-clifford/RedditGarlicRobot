@@ -1,3 +1,9 @@
+
+
+| :exclamation:  | This is a mirror of [https://git.sr.ht/~ecc/RedditGarlicRobot](https://git.sr.ht/~ecc/RedditGarlicRobot). Please refrain from using GitHub's issue and PR system.  |
+|----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
 # RedditGarlicRobot
 Garlic bread for life!
 
